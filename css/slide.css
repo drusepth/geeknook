@@ -1,0 +1,13 @@
+h3.section {
+	margin-top: 1em;
+}
+
+#about_slide{
+	padding: 10px;
+	border-left: 5px solid #F3F1F1;
+}
+
+div.marginbottom {
+	/* Since the Fx.Slide element resets margins, we set a margin on the above element */
+	margin-bottom: 10px;
+}

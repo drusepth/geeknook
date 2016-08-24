@@ -1,0 +1,27 @@
+<?php
+	$friendly_feed_sources = array(
+		"The people living inside the GeekNook servers think that you have similar interests.",
+		"The GeekNook supercomputers think that there's a high probability that you share similar interests.",
+		"Harry from accounting thinks you two would be a good match.", 
+		"George from downstairs thinks--well, disregard that.  <em>I</em> think you two have some similar interests.", 
+		"That one girl from the coffee room mentioned them, and I thought you might be interested.",
+		"Robots from the future have come back and told us it is imperative that you check out their profile.",
+		"Futuristic robo-toad dialogue has been translated to say, among mention of a hostile takeover, that you share similar interests.",
+		"Why not check out their profile?",
+		"Cool!",
+		"Huzzah!",
+		"Awesome!",
+		"Smashing, dude!",
+		"Totally rad!", 
+		"I hear they're a pretty cool guy.",
+		"They're pretty cool -- or so I hear.",
+		"Go get 'em, tiger!",
+		"What a geek, eh?",
+		"You should totally stalk them.",
+		"Nonsequitors are cool beans.",
+		"Cool beans!",
+		"Cool beans!!!!!!!!!!!",
+		"GeekNook approves of this person.  Possibly.",
+		"I bet you two could be best buds!",
+		"But..  it's a secret.  Don't tell anyone!"
+	);

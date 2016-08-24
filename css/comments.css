@@ -1,0 +1,30 @@
+.cmt_content_spacer {
+	display:block;
+	width:400px;
+}
+.cmt_picture_spacer {
+	width:60px;
+}
+.comment_info_bar {
+	float:right;
+	vertical-align:bottom;
+	color:#999;
+	margin-top:14px;
+}
+.comment_table {
+	display:block;
+}
+.comment_table tr {
+
+}
+.comment_table tr td {
+	border-bottom:1px solid #ddd;
+	padding:5px;
+}
+.comment_table_avatar {
+	height:60px;
+	width:60px;
+}
+.comment_content {
+	vertical-align:top;
+}
